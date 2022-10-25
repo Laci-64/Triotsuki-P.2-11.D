@@ -1,0 +1,63 @@
+body,
+html {
+    background: linear-gradient(45deg, #49a09d, #5f2c82);
+    font-weight: 100;
+    font-family: sans-serif;
+    background-attachment: fixed;
+}
+
+table {
+    width: 800px;
+    border-collapse: collapse;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+th,
+td {
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: #fff;
+}
+
+th {
+    text-align: left;
+    background-color: #55608f;
+}
+
+p {
+    text-align: justify;
+}
+
+footer {
+    font-size: 1.2rem;
+    float: right;
+    text-shadow: 1px 1px 1px black;
+}
+
+.nav-item {
+    margin-left: 10px;
+}
+
+.navbar-brand {
+    margin-left: 10px;
+}
+
+.navbar-toggler {
+    margin-right: 10px;
+}
+
+.kep {
+    float: right;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+
+.container {
+    background-color: white;
+    opacity: 70%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 40px;
+    border-radius: 60px;
+}
